@@ -12,9 +12,9 @@ This project is a result of my study of [The Odin Project](https://theodinprojec
 ## Getting Started
 You can view the website live at:
 
-    https://kristalmdow.github.io/etch-a-sketch
+    https://kristalmdow.github.io/etchasketch
 
-Or click [here.](https://kristalmdow.github.io/etch-a-sketch) The website should be viewable in any modern browser. 
+Or click [here.](https://kristalmdow.github.io/etchasketch) The website should be viewable in any modern browser. 
 
 Alternatively, after you have cloned from Github via your favored method, open index.html in your favorite browser to view the page.
 
